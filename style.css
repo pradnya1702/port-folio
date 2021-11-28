@@ -7,7 +7,7 @@ body
 }
 .name
 {
-    background-image: url(./image/computer.png);
+    background-image: url(computer.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
